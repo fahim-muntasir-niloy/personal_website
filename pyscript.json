@@ -1,3 +1,0 @@
-{
-    "packages": ["dotenv", "json", "os", "requests"]
-}
